@@ -158,7 +158,6 @@
   // Change current page focus into menu
   var menuFocusItem = function () {
     $(document).ready(function () {
-      console.log(document.location);
       let paths = document.location.pathname.split('/');
       var filename = paths[paths.length - 1].split('.')[0];
       $('#' + filename).addClass('fh5co-active');
