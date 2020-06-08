@@ -106,33 +106,24 @@
         <div id="nanogallery2"></div>
 
         <script>
-          $.getJSON("assets/list_images.json", function (json) {
-            console.log("JSON Data: " + json[0].title);
-          });
-
           jQuery(document).ready(function () {
+            $.getJSON("assets/list_images.json", function (json) {
 
-            jQuery("#nanogallery2").nanogallery2({
-              // ### gallery settings ### 
-              thumbnailHeight: 133,
-              thumbnailWidth: 'auto',
-              itemsBaseURL: 'images/galleria/',
-              galleryFilterTags: 'title',
-              thumbnailLabel: {
-                display: false,
-              },
+              jQuery("#nanogallery2").nanogallery2({
+                // ### gallery settings ### 
+                thumbnailHeight: 133,
+                thumbnailWidth: 'auto',
+                itemsBaseURL: 'images/galleria/',
+                galleryFilterTags: 'title',
+                thumbnailLabel: {
+                  display: false,
+                },
 
-              // ### gallery content ### 
-              items: [
-                { src: '1.jpg', srct: '1_t.jpg', title: '#Struttura ' },
-                { src: '2.jpg', srct: '2_t.jpg', title: '#Struttura ' },
-                { src: '3.jpg', srct: '3_t.jpg', title: '#Alloggi' },
-                { src: '4.jpg', srct: '4_t.jpg', title: '#Alloggi' },
-                { src: '5.jpg', srct: '5_t.jpg', title: '#Alloggi' }
-              ]
+                // ### gallery content ### 
+                items: json
+              });
             });
           });
-
         </script>
 
       </div>
