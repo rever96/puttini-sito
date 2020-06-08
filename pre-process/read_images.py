@@ -18,7 +18,7 @@ for path_folder in folders:
         result.append(
             {
                 "src": path_folder + path_file,
-                "srct": path_folder + fileName[0] + "_t" + fileName[1],
+                "srct": path_folder + fileName[0] + "_t." + fileName[1],
                 "title": folderName[len(folderName) - 2]})
 
 print(json.dumps(result))
