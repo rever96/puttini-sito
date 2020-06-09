@@ -19,6 +19,6 @@ for path_folder in folders:
             {
                 "src": path_folder + path_file,
                 "srct": path_folder + fileName[0] + "_t." + fileName[1],
-                "title": folderName[len(folderName) - 2]})
+                "tags": folderName[len(folderName) - 2]})
 
 print(json.dumps(result))
