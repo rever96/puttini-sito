@@ -1,1 +1,28 @@
-[{"src": "./images/galleria/Struttura/2.jpg", "srct": "./images/galleria/Struttura/2_t.jpg", "title": "Struttura"}, {"src": "./images/galleria/Struttura/1.jpg", "srct": "./images/galleria/Struttura/1_t.jpg", "title": "Struttura"}, {"src": "./images/galleria/Alloggi/3.jpg", "srct": "./images/galleria/Alloggi/3_t.jpg", "title": "Alloggi"}, {"src": "./images/galleria/Alloggi/5.jpg", "srct": "./images/galleria/Alloggi/5_t.jpg", "title": "Alloggi"}, {"src": "./images/galleria/Alloggi/4.jpg", "srct": "./images/galleria/Alloggi/4_t.jpg", "title": "Alloggi"}]
+[
+    {
+        "src": "./images/galleria/Struttura/2.jpg",
+        "srct": "./images/galleria/Struttura/2_t.jpg",
+        "title": "Struttura",
+        "data-ngtags":"monument"
+    },
+    {
+        "src": "./images/galleria/Struttura/1.jpg",
+        "srct": "./images/galleria/Struttura/1_t.jpg",
+        "title": "Struttura"
+    },
+    {
+        "src": "./images/galleria/Alloggi/3.jpg",
+        "srct": "./images/galleria/Alloggi/3_t.jpg",
+        "title": "Alloggi"
+    },
+    {
+        "src": "./images/galleria/Alloggi/5.jpg",
+        "srct": "./images/galleria/Alloggi/5_t.jpg",
+        "title": "Alloggi"
+    },
+    {
+        "src": "./images/galleria/Alloggi/4.jpg",
+        "srct": "./images/galleria/Alloggi/4_t.jpg",
+        "title": "Alloggi"
+    }
+]
