@@ -8,11 +8,12 @@ folders = glob.glob(path)
 
 for path_folder in folders:
     files = glob.glob(path_folder + "/*.jpg")
+    files += glob.glob(path_folder + "/*.JPG")
     folderName = path_folder.split('/')
     for path_file in files:
         path_file = path_file.split('/')[len(path_file.split('/')) - 1]
-        isThunbmail = path_file.split('_')
-        if len(isThunbmail) > 1 and isThunbmail[1].split('.')[0] == "t":
+        isThunbmail = path_file.split('_t')
+        if len(isThunbmail) > 1:
             continue
         fileName = path_file.split('.')
         result.append(

@@ -1,1 +1,142 @@
-[{"src": "./images/galleria/Struttura/ginevrachiappa_077.jpg", "srct": "./images/galleria/Struttura/ginevrachiappa_077_t.jpg", "tags": "Struttura"}, {"src": "./images/galleria/Struttura/ginevrachiappa_010.jpg", "srct": "./images/galleria/Struttura/ginevrachiappa_010_t.jpg", "tags": "Struttura"}, {"src": "./images/galleria/Struttura/ginevrachiappa_010_t.jpg", "srct": "./images/galleria/Struttura/ginevrachiappa_010_t_t.jpg", "tags": "Struttura"}, {"src": "./images/galleria/Struttura/ginevrachiappa_077_t.jpg", "srct": "./images/galleria/Struttura/ginevrachiappa_077_t_t.jpg", "tags": "Struttura"}, {"src": "./images/galleria/Alloggi/ginevrachiappa_019.jpg", "srct": "./images/galleria/Alloggi/ginevrachiappa_019_t.jpg", "tags": "Alloggi"}, {"src": "./images/galleria/Alloggi/ginevrachiappa_020_t.jpg", "srct": "./images/galleria/Alloggi/ginevrachiappa_020_t_t.jpg", "tags": "Alloggi"}, {"src": "./images/galleria/Alloggi/ginevrachiappa_009.jpg", "srct": "./images/galleria/Alloggi/ginevrachiappa_009_t.jpg", "tags": "Alloggi"}, {"src": "./images/galleria/Alloggi/ginevrachiappa_020.jpg", "srct": "./images/galleria/Alloggi/ginevrachiappa_020_t.jpg", "tags": "Alloggi"}, {"src": "./images/galleria/Alloggi/ginevrachiappa_027_t.jpg", "srct": "./images/galleria/Alloggi/ginevrachiappa_027_t_t.jpg", "tags": "Alloggi"}, {"src": "./images/galleria/Alloggi/Casa Glicine1.jpg", "srct": "./images/galleria/Alloggi/Casa Glicine1_t.jpg", "tags": "Alloggi"}, {"src": "./images/galleria/Alloggi/ginevrachiappa_027.jpg", "srct": "./images/galleria/Alloggi/ginevrachiappa_027_t.jpg", "tags": "Alloggi"}, {"src": "./images/galleria/Alloggi/ginevrachiappa_019_t.jpg", "srct": "./images/galleria/Alloggi/ginevrachiappa_019_t_t.jpg", "tags": "Alloggi"}, {"src": "./images/galleria/Alloggi/ginevrachiappa_009_t.jpg", "srct": "./images/galleria/Alloggi/ginevrachiappa_009_t_t.jpg", "tags": "Alloggi"}]
+[
+  {
+    "src": "./images/galleria/Struttura/ginevrachiappa_077.jpg",
+    "srct": "./images/galleria/Struttura/ginevrachiappa_077_t.jpg",
+    "tags": "Struttura"
+  },
+  {
+    "src": "./images/galleria/Struttura/ginevrachiappa_010.jpg",
+    "srct": "./images/galleria/Struttura/ginevrachiappa_010_t.jpg",
+    "tags": "Struttura"
+  },
+  {
+    "src": "./images/galleria/Struttura/IMG_2426.JPG",
+    "srct": "./images/galleria/Struttura/IMG_2426_t.JPG",
+    "tags": "Struttura"
+  },
+  {
+    "src": "./images/galleria/Struttura/IMG_2111.JPG",
+    "srct": "./images/galleria/Struttura/IMG_2111_t.JPG",
+    "tags": "Struttura"
+  },
+  {
+    "src": "./images/galleria/Struttura/Il giardino.JPG",
+    "srct": "./images/galleria/Struttura/Il giardino_t.JPG",
+    "tags": "Struttura"
+  },
+  {
+    "src": "./images/galleria/Struttura/01.JPG",
+    "srct": "./images/galleria/Struttura/01_t.JPG",
+    "tags": "Struttura"
+  },
+  {
+    "src": "./images/galleria/Struttura/02.JPG",
+    "srct": "./images/galleria/Struttura/02_t.JPG",
+    "tags": "Struttura"
+  },
+  {
+    "src": "./images/galleria/Struttura/IMG_2102.JPG",
+    "srct": "./images/galleria/Struttura/IMG_2102_t.JPG",
+    "tags": "Struttura"
+  },
+  {
+    "src": "./images/galleria/Struttura/IMG_2399.JPG",
+    "srct": "./images/galleria/Struttura/IMG_2399_t.JPG",
+    "tags": "Struttura"
+  },
+  {
+    "src": "./images/galleria/Struttura/04.JPG",
+    "srct": "./images/galleria/Struttura/04_t.JPG",
+    "tags": "Struttura"
+  },
+  {
+    "src": "./images/galleria/Struttura/03.JPG",
+    "srct": "./images/galleria/Struttura/03_t.JPG",
+    "tags": "Struttura"
+  },
+  {
+    "src": "./images/galleria/Struttura/IMG_2805.JPG",
+    "srct": "./images/galleria/Struttura/IMG_2805_t.JPG",
+    "tags": "Struttura"
+  },
+  {
+    "src": "./images/galleria/Struttura/Il nostro giardino.JPG",
+    "srct": "./images/galleria/Struttura/Il nostro giardino_t.JPG",
+    "tags": "Struttura"
+  },
+  {
+    "src": "./images/galleria/Struttura/IMG_2100.JPG",
+    "srct": "./images/galleria/Struttura/IMG_2100_t.JPG",
+    "tags": "Struttura"
+  },
+  {
+    "src": "./images/galleria/Struttura/05.JPG",
+    "srct": "./images/galleria/Struttura/05_t.JPG",
+    "tags": "Struttura"
+  },
+  {
+    "src": "./images/galleria/Struttura/IMG_2164.JPG",
+    "srct": "./images/galleria/Struttura/IMG_2164_t.JPG",
+    "tags": "Struttura"
+  },
+  {
+    "src": "./images/galleria/Alloggi/ginevrachiappa_019.jpg",
+    "srct": "./images/galleria/Alloggi/ginevrachiappa_019_t.jpg",
+    "tags": "Alloggi"
+  },
+  {
+    "src": "./images/galleria/Alloggi/ginevrachiappa_009.jpg",
+    "srct": "./images/galleria/Alloggi/ginevrachiappa_009_t.jpg",
+    "tags": "Alloggi"
+  },
+  {
+    "src": "./images/galleria/Alloggi/ginevrachiappa_020.jpg",
+    "srct": "./images/galleria/Alloggi/ginevrachiappa_020_t.jpg",
+    "tags": "Alloggi"
+  },
+  {
+    "src": "./images/galleria/Alloggi/Casa Glicine1.jpg",
+    "srct": "./images/galleria/Alloggi/Casa Glicine1_t.jpg",
+    "tags": "Alloggi"
+  },
+  {
+    "src": "./images/galleria/Alloggi/ginevrachiappa_027.jpg",
+    "srct": "./images/galleria/Alloggi/ginevrachiappa_027_t.jpg",
+    "tags": "Alloggi"
+  },
+  {
+    "src": "./images/galleria/Alloggi/BBB_7832.JPG",
+    "srct": "./images/galleria/Alloggi/BBB_7832_t.JPG",
+    "tags": "Alloggi"
+  },
+  {
+    "src": "./images/galleria/Alloggi/BBB_7774.JPG",
+    "srct": "./images/galleria/Alloggi/BBB_7774_t.JPG",
+    "tags": "Alloggi"
+  },
+  {
+    "src": "./images/galleria/Alloggi/BBB_7750.JPG",
+    "srct": "./images/galleria/Alloggi/BBB_7750_t.JPG",
+    "tags": "Alloggi"
+  },
+  {
+    "src": "./images/galleria/Alloggi/BBB_7756.JPG",
+    "srct": "./images/galleria/Alloggi/BBB_7756_t.JPG",
+    "tags": "Alloggi"
+  },
+  {
+    "src": "./images/galleria/Alloggi/BBB_7771.JPG",
+    "srct": "./images/galleria/Alloggi/BBB_7771_t.JPG",
+    "tags": "Alloggi"
+  },
+  {
+    "src": "./images/galleria/Alloggi/BBB_7790.JPG",
+    "srct": "./images/galleria/Alloggi/BBB_7790_t.JPG",
+    "tags": "Alloggi"
+  },
+  {
+    "src": "./images/galleria/Alloggi/BBB_7749.JPG",
+    "srct": "./images/galleria/Alloggi/BBB_7749_t.JPG",
+    "tags": "Alloggi"
+  }
+]
