@@ -9,7 +9,7 @@ folders = glob.glob(path)
 for path_folder in folders:
     files = glob.glob(path_folder + "/*.jpg")
     files += glob.glob(path_folder + "/*.JPG")
-    folderName = path_folder.split('/')
+    folderName = path_folder.split('/')[2].split("\\")[1]
     for path_file in files:
         path_file = path_file.split('/')[len(path_file.split('/')) - 1]
         isThunbmail = path_file.split('_t')
@@ -18,8 +18,8 @@ for path_folder in folders:
         fileName = path_file.split('.')
         result.append(
             {
-                "src": path_folder + path_file,
-                "srct": path_folder + fileName[0] + "_t." + fileName[1],
-                "tags": folderName[len(folderName) - 2]})
+                "src": "./images/" + path_file,
+                "srct": "./images/" + fileName[0] + "_t." + fileName[1],
+                "tags": folderName})
 
 print(json.dumps(result))
